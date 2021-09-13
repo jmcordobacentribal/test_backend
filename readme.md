@@ -17,4 +17,4 @@ Necesitamos que se expongan servicios API REST para que sean accesibles desde ap
     
 Necesitamos que el desarrollo se realice en Python con el framework Django y se utilice una base de datos MySQL. Se valorará que se tenga en cuenta el desarrollo con Arquitectura Hexagonal y DDD. También se valorará que se realicen test unitarios y que el desarrollo se pueda levantar con Docker.
 
-El entregable debe ser un ZIP del proyecto enviado a jmcordoba@centribal.com, de tal manera que nuestro equipo de desarrollo valore tu trabajo y en la posterior entrevista podamos conversar acerca de cómo y por qué has tomado determinadas decisiones. El entregable debe contener las instrucciones de instalación así como las instrucciones para acceder a los servicios API REST.
+El entregable debe ser una Pull Request a la rama main del proyecto, de tal manera que nuestro equipo de desarrollo valore tu trabajo y en la posterior entrevista podamos conversar acerca de cómo y por qué has tomado determinadas decisiones. El entregable debe contener las instrucciones de instalación así como las instrucciones para acceder a los servicios API REST.
